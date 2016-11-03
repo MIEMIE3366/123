@@ -1,0 +1,11 @@
+{
+  "$type": "Catchem.Classes.TelegramSettings, Catchem",
+  "AutoReportPokemon": [],
+  "Owners": [],
+  "AutoStart": false,
+  "AutoReportSelectedPokemon": false,
+  "ApiKey": "",
+  "ReportAllPokemonsAboveCp": 0,
+  "ReportAllPokemonsAboveIv": 0,
+  "ReportLevelUp": false
+}

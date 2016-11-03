@@ -1,0 +1,50 @@
+﻿[18:00:46] Your IP is: 101.14.198.161
+[18:00:47] Perfect! You already have the newest Version 1.5.2.1
+[18:00:47] Logging in using account Google
+[18:00:47] Make sure you have entered the right Email & Password.
+[18:00:49] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[18:00:49] Make sure Lat & Lng are right. Exit Program if not! Lat: 40.8782181410465 Lng: -74.3142700195313 Alt: 12
+[18:00:50] Niantic Servers unstable, throttling API Calls.
+[18:00:50] [NIANTIC] Expected 5 responses, but got 0 responses
+[18:01:03] Current Operation was canceled. Bot stopped/paused.
+[18:41:33] Your IP is: 101.14.198.161
+[18:41:34] Perfect! You already have the newest Version 1.5.2.1
+[18:41:34] Logging in using account Google
+[18:41:34] Make sure you have entered the right Email & Password.
+[18:41:36] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[18:41:36] Current Operation was canceled. Bot stopped/paused.
+[18:45:36] Your IP is: 101.14.198.161
+[18:45:37] Perfect! You already have the newest Version 1.5.2.1
+[18:45:37] Logging in using account Google
+[18:45:39] Playing as Candy3366mey
+[18:45:39] Make sure Lat & Lng are right. Exit Program if not! Lat: 24.85063481857 Lng: 120.929367542267 Alt: 12
+[18:45:55] During that pause, consider to check fresh updates at https://github.com/Lunat1q/Catchem-PoGo or join our friendly Discord chat: https://discord.me/Catchem
+[18:45:56] No usable PokeStops found in your area. Is your maximum distance too small?
+[18:46:56] Mapzen Valhalla API Key is Empty!
+[18:46:56] Distance to target locat

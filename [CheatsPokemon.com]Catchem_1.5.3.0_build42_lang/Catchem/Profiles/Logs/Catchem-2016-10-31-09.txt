@@ -1,0 +1,110 @@
+﻿Initializing Rocket logger at time 2016/10/31 上午 09:32:12...
+[09:41:48] Your IP is: 61.224.73.249
+[09:41:48] Perfect! You already have the newest Version 1.5.2.1
+[09:41:48] Logging in using account Google
+[09:41:49] Make sure you have entered the right Email & Password.
+[09:41:54] APIFailureStrategy: BadAuthentication
+[09:41:57] APIFailureStrategy: BadAuthentication
+[09:41:58] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[09:41:58] Current Operation was canceled. Bot stopped/paused.
+[09:43:02] Your IP is: 61.224.73.249
+[09:43:02] Perfect! You already have the newest Version 1.5.2.1
+[09:43:02] Logging in using account Google
+[09:43:03] Make sure you have entered the right Email & Password.
+[09:43:05] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[09:43:05] Make sure Lat & Lng are right. Exit Program if not! Lat: 40.7827391470637 Lng: -73.9645560405006 Alt: 12
+[09:43:05] Niantic Servers unstable, throttling API Calls.
+[09:43:05] [NIANTIC] Expected 5 responses, but got 0 responses
+[09:43:18] Current Operation was canceled. Bot stopped/paused.
+[09:56:21] Your IP is: 61.224.73.249
+[09:56:22] Perfect! You already have the newest Version 1.5.2.1
+[09:56:22] Logging in using account Google
+[09:56:22] Make sure you have entered the right Email & Password.
+[09:56:24] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[09:56:24] Make sure Lat & Lng are right. Exit Program if not! Lat: 40.7827391470637 Lng: -73.9645560405006 Alt: 12
+[09:56:24] Niantic Servers unstable, throttling API Calls.
+[09:56:24] [NIANTIC] Expected 5 responses, but got 0 responses
+[09:56:39] Current Operation was canceled. Bot stopped/paused.
+[09:57:16] Your IP is: 61.224.73.249
+[09:57:16] Perfect! You already have the newest Version 1.5.2.1
+[09:57:16] Logging in using account Google
+[09:57:16] Make sure you have entered the right Email & Password.
+[09:57:18] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[09:57:18] Make sure Lat & Lng are right. Exit Program if not! Lat: 40.7827391470637 Lng: -73.9645560405006 Alt: 12
+[09:57:18] Niantic Servers unstable, throttling API Calls.
+[09:57:18] [NIANTIC] Expected 5 responses, but got 0 responses
+[09:57:23] Your IP is: 61.224.73.249
+[09:57:23] Perfect! You already have the newest Version 1.5.2.1
+[09:57:23] Logging in using account Google
+[09:57:23] Make sure you have entered the right Email & Password.
+[09:57:25] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[09:57:25] Make sure Lat & Lng are right. Exit Program if not! Lat: 40.7827391470637 Lng: -73.9645560405006 Alt: 12
+[09:57:25] Niantic Servers unstable, throttling API Calls.
+[09:57:25] [NIANTIC] Expected 5 responses, but got 0 responses
+[09:57:32] Current Operation was canceled. Bot stopped/paused.
+[09:57:40] Current Operation was canceled. Bot stopped/paused.

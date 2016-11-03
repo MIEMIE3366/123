@@ -1,0 +1,10 @@
+{
+  "$type": "Catchem.Classes.CatchemSettings, Catchem",
+  "Routes": [],
+  "ProviderEnum": 0,
+  "UiLanguage": "繁体中文-台湾",
+  "ConsoleRowsToShow": 100,
+  "HeatMapClusterRadius": 30,
+  "KeepPokeMarkersOnMap": true,
+  "FollowTheWhiteRabbit": false
+}

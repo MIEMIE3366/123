@@ -1,0 +1,22 @@
+﻿Initializing Rocket logger at time 2016/10/31 下午 05:46:00...
+[17:59:09] Your IP is: 101.14.198.161
+[17:59:10] Perfect! You already have the newest Version 1.5.2.1
+[17:59:10] Logging in using account Google
+[17:59:10] Make sure you have entered the right Email & Password.
+[17:59:16] APIFailureStrategy: BadAuthentication
+[17:59:19] APIFailureStrategy: BadAuthentication
+[17:59:19] PokemonGo.RocketAPI.Exceptions.InvalidResponseException: 已發生類型 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' 的例外狀況。
+   於 PokemonGo.RocketAPI.Extensions.HttpClientExtensions.<PostProtoPayload>d__1`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Extensions\HttpClientExtensions.cs: 行 79
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.BaseRpc.<PostProtoPayload>d__7`2.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\BaseRpc.cs: 行 0
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PokemonGo.RocketAPI.Rpc.Player.<GetPlayer>d__4.MoveNext() 於 D:\catchem\PoGoAPI\PoGo.RocketAPI\Rpc\Player.cs: 行 53
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 PoGo.PokeMobBot.Logic.State.LoginState.<DownloadProfile>d__2.MoveNext() 於 D:\catchem\PoGo.PokeMobBot.Logic\State\LoginState.cs: 行 259
+[17:59:19] Current Operation was canceled. Bot stopped/paused.
